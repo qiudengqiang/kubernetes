@@ -18,6 +18,7 @@ limitations under the License.
 // It implements a set of strategies (rolling, recreate) for deploying an application,
 // the means to rollback to previous versions, proportional scaling for mitigating
 // risk, cleanup policy, and other useful features of Deployments.
+//test
 package deployment
 
 import (
